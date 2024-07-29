@@ -60,7 +60,7 @@ const Index = () => {
               <CardContent>
                 <p className="text-sm text-gray-500 mb-2">Upvotes: {story.points}</p>
                 <Button
-                  variant="outline"
+                  variant="secondary"
                   size="sm"
                   asChild
                 >
